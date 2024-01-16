@@ -24,6 +24,8 @@
 
 从浏览器的 XHR 请求中，复制对应的 CURL 命令，使用 CURL 转 Python 代码工具，即可快速搞定1和2
 
+![image](https://github.com/xyyz12/Get-the-airdrop-script/assets/91812763/d1726d25-c3c5-4fa4-a25e-f04e33b5a014)
+
  CURL 转 Python 代码工具：{https://www.lddgo.net/convert/curl-to-code 、 https://www.kgtools.cn/convert/curl} 
 
 1、获取空投数量
