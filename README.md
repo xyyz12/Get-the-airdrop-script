@@ -34,9 +34,8 @@
 
 使用我自己编写的工具 http://wtftx.com       ，复制tx hash，即可一键转换为 claim 的 web3. py函数，这就是3、claim 函数
 
-![image](https://github.com/xyyz12/Get-the-airdrop-script/assets/91812763/3273d05e-414d-4f40-ac81-92644b18830b)
 
-
+![image](https://github.com/xyyz12/Get-the-airdrop-script/assets/91812763/9567f9c8-03a8-41b2-8fb5-552d64ba94e9)
 
 
 4、组装代码
