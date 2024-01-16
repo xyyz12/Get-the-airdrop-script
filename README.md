@@ -24,6 +24,8 @@
 
 从浏览器的 XHR 请求中，复制对应的 CURL 命令，使用 CURL 转 Python 代码工具，即可快速搞定1和2
 
+ CURL 转 Python 代码工具：{https://www.lddgo.net/convert/curl-to-code 、 https://www.kgtools.cn/convert/curl} 
+
 1、获取空投数量
 
 2、获取 proof
