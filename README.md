@@ -20,6 +20,21 @@
 
 3、编写函数
 
+1、获取空投数量    +    2、获取 proof   +    3、claim 函数
+
+从浏览器的 XHR 请求中，复制对应的 CURL 命令，使用 CURL 转 Python 代码工具，即可快速搞定1和2
+
+1、获取空投数量
+
+2、获取 proof
+
+使用我自己编写的工具 http://wtftx.com，复制 tx hash，即可一键转换为 claim 的 web3. py函数，这就是3
+
+![image](https://github.com/xyyz12/Get-the-airdrop-script/assets/91812763/3273d05e-414d-4f40-ac81-92644b18830b)
+
+3、claim 函数
+
+
 4、组装代码
 
 完整的函数 = 功能函数 +  操作函数
