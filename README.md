@@ -6,8 +6,14 @@
 参考教程：https://x.com/gm365/status/1732302764641022168?s=20
 
 
-1、手动 claim，查看 tx 信息
+1、手动 claim，查看 tx 信息(做大多数项目，第一步都会有这个)
 
+![image](https://github.com/xyyz12/Get-the-airdrop-script/assets/91812763/ee282a12-e0e0-478d-9206-225147577f31)
+
+可以看到 claim 交易需要两个核心参数：
+
+ amount: 空投数量   +    proof: 证明信息
+  
 2、获取核心参数
 
 3、编写函数
