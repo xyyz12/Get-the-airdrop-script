@@ -28,9 +28,9 @@
 
  CURL 转 Python 代码工具：{https://www.lddgo.net/convert/curl-to-code 、 https://www.kgtools.cn/convert/curl} 
 
-1、获取空投数量
+网站的查询按钮   --》     1、获取空投数量
 
-2、获取 proof
+网站的claim按钮  --》     2、获取 proof
 
 使用我自己编写的工具 http://wtftx.com       ，复制tx hash，即可一键转换为 claim 的 web3. py函数，这就是3、claim 函数
 
