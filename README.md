@@ -28,6 +28,8 @@
 
  CURL 转 Python 代码工具：{https://www.lddgo.net/convert/curl-to-code 、 https://www.kgtools.cn/convert/curl} 
 
+headers 转换网站，chrome控制台复制了curl链接以后可以来这里转换成requests格式，开箱即用 https://curlconverter.com/
+
 网站的查询按钮   --》     1、获取空投数量
 
 网站的claim按钮  --》     2、获取 proof
